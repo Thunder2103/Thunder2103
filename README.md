@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thunder2103
 - 👀 I’m interested in software development, machine learing and cyber security 
-- 🌱 I’m currently learning C#. python and javascript
+- 🌱 I’m currently learning C#, python and javascript (node.js)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thomasgibson2003@live.com
 
