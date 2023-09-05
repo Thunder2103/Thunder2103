@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thunder2103
 - 👀 I’m interested in software engineering and AI
 - 🌱 I’m currently learning python
-- I'm a first year university student in the UK. 
+- I'm a second year university student in the UK. 
 
 <!---
 Thunder2103/Thunder2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
